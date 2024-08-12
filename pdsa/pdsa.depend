@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1723436415 source:c:\users\acer\desktop\pdsa course work\display new\pdsa\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<queue>
+

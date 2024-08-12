@@ -1,0 +1,13 @@
+ABC Airlines
+Priority Ticket
+_
+Customer ID: 123
+Customer Name: WWW
+Customer Gender: FEMALE
+	 Description
+
+Destination		
+Flight cost: 		0
+Priority Service: Included
+_
+Thank You

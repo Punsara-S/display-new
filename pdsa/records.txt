@@ -1,0 +1,12 @@
+S&S Airlines
+Ticket
+_
+Customer ID: 4
+Customer Name: FDUD
+Customer Gender: FIED
+	 Description
+
+Destination		
+Flight cost: 		1.29155e+29
+_
+Thank You
